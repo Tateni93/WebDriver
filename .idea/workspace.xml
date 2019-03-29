@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fe03982-0474-4f0d-922e-adf09463b99f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChromeDriver.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Browser/ChromeDriver.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirefoxDriver.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Browser/FirefoxDriver.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <element signature="e#17#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IEDriver.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Browser/IEDriver.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../hmrc/build-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/docker-jenkins" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/Browser/ChromeDriver.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Browser/FirefoxDriver.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-130" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webdriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="WebDriver" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="webdriver" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="webdriver-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3107701534000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2329778137" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../liveservices-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/add-taxes-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/alert-config" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ated" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ated-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ated-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ated-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ated-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ated-subscription-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ated-subscription-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ats-frontend-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/awrs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/awrs-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/awrs-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/awrs-lookup-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/awrs-lookup-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/awrs-notification" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/birth-registration-matching" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/birth-registration-matching-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/business-customer-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/c2ni" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/c2ni-performance-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/c2ni-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/citizen-details" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cocar-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cocar-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cocar-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cysp-acceptance-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ei-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ei-perf-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/enrolment-store-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/extent-report" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/frontend-template-provider" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/govuk-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ma-api-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ma-api-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/marriage-allowance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/matching-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/nisp-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/p800-payments" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/p800-payments-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pay-as-you-earn-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/paye" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pbik-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pdf-generator-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pertax-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pertax-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ras-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ras-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/repayments-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/repayments-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/rtii-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/rtii-contract-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/rtii-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-acceptance-test-suite" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tamc-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-enrolments" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-free-childcare-parent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-free-childcare-perf-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-free-childcare-provider" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-free-childcare-provider-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/taxcalc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/taxcalc-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/taxcalc-stubs" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fe03982-0474-4f0d-922e-adf09463b99f" name="Default" comment="" />
+      <created>1553850608176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553850608176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-130" y="-1080" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32935324" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Browser/ChromeDriver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Browser/FirefoxDriver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="e#17#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Browser/IEDriver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
