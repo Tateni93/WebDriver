@@ -19,6 +19,7 @@ class Browser {
       case Some("remote-zap-firefox") => FirefoxDriver.instance(true, true)
       case Some("ie") => IEDriver.instance
       case Some("remote-ie") => IEDriver.remoteInstance
+      case Some("browserstack") => BrowserStackDriver.instance
       case _ =>
         println(s"Browser not recognized! Running tests in Chrome!")
         ChromeDriver.instance(false, false)
