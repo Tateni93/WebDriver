@@ -7,10 +7,12 @@ import org.junit.runner.RunWith
 @RunWith(classOf[Cucumber])
 @CucumberOptions(
   features = Array("src/test/resources/features"),
-  glue = Array("stepDefs"),
-  plugin = Array("pretty", "html:target/cucumber",
-    "json:target/cucumber.json",
-    "junit:target/test-reports/TEST-cucumber-junit-report.xml"),
-  tags = Array("@wip")
+  glue = Array("uk.gov.hmrc.integration.stepdefs"),
+  plugin = Array("pretty",
+    "html:target/cucumber",
+    "json:target/cucumber.json"),
+  tags = Array("@browserstack"),
+  strict = true
 )
-class RunWip
+class RunBrowserstack {
+}
