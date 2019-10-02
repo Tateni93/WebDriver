@@ -7,7 +7,7 @@ object Browser extends Browser
 
 class Browser {
 
-  val driver: WebDriver= {
+ lazy val driver: WebDriver= {
     sys.props.get("browser").map(_.toLowerCase) match {
       case Some("chrome") => ChromeDriver.instance(false, false)
       case Some("zap-chrome") => ChromeDriver.instance(true, false)
@@ -24,16 +24,5 @@ class Browser {
         println(s"Browser not recognized! Running tests in Chrome!")
         ChromeDriver.instance(false, false)
     }
-  }
-
-  var webDriver: WebDriver = {
-    sys addShutdownHook {
-      Try(webDriver.quit())
-    }
-
-    val selectedDriver: WebDriver = driver
-    selectedDriver.getWindowHandle
-
-    selectedDriver
   }
 }

@@ -11,6 +11,6 @@ import org.junit.runner.RunWith
   plugin = Array("pretty", "html:target/cucumber",
     "json:target/cucumber.json",
     "junit:target/test-reports/TEST-cucumber-junit-report.xml"),
-  tags = Array("@suite", "~ignore")
+  tags = Array("@suite")
 )
 class RunSuite
