@@ -26,14 +26,9 @@ class Browser {
     }
   }
 
-  var webDriver: WebDriver = {
-    sys addShutdownHook {
-      Try(webDriver.quit())
+  sys.addShutdownHook(
+    Try{
+      driver.quit()
     }
-
-    val selectedDriver: WebDriver = driver
-    selectedDriver.getWindowHandle
-
-    selectedDriver
-  }
+  )
 }
